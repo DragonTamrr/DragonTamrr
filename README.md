@@ -2,7 +2,7 @@
 - 💻 I program in Java, C#, Python, Swift, Dart, C++, HTML, CSS ,and JS!
 - 👀 I’m interested in game development, UI/UX, back-end, and front-end development!
 - 🌱 I'm currently learning how to work with Unity's 2D engine to design a game!
-- 📫 If you wanna reach me for some reason feel free to reach me at my email, dragon.tamrr@gmail.com
+- 📫 If you wanna reach me for some reason, don't!
 
 <!---
 DragonTamrr/DragonTamrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
